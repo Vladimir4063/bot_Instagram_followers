@@ -4,7 +4,7 @@ from instabot import Bot
 """
 
 mi_bot = Bot()
-mi_bot.login(username='vladimirgutierrez7', password='contravlady')
+mi_bot.login(username='vladimirgutierrez7', password='password_de_prueba')
 mi_bot.follow_followers('padavidnesher')
 
 
